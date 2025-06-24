@@ -1,0 +1,21 @@
+# 🔐 ENVIRONMENT VARIABLES
+.env
+
+# 📦 NODE MODULES
+node_modules/
+
+# 🛠️ LOG FILES
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 💻 OS SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# ⚙️ VSCODE SETTINGS (optional)
+.vscode/
+
+# 📁 BUILD ARTIFACTS (optional)
+dist/
+build/
